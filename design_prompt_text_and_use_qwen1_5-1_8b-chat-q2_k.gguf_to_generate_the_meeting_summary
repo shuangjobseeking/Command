@@ -1,0 +1,2 @@
+python make_rag_prompt.py
+$prompt = Get-Content prompts\ragprompt.txt -Raw
